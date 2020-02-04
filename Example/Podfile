@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UBSelectTravelOptions_Example' do
+  pod 'UBSelectTravelOptions', :path => '../'
+
+  target 'UBSelectTravelOptions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - UBSelectTravelOptions (0.1.16)
+
+DEPENDENCIES:
+  - UBSelectTravelOptions (from `../`)
+
+EXTERNAL SOURCES:
+  UBSelectTravelOptions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UBSelectTravelOptions: 9e0277cfa14115fe47e2dd8df595227bd21fb5c0
+
+PODFILE CHECKSUM: e0212a9f918c69d5575cfef3fe7c75b930ff25ba
+
+COCOAPODS: 1.8.0

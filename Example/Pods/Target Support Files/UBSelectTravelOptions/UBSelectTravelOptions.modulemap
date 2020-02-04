@@ -1,0 +1,6 @@
+framework module UBSelectTravelOptions {
+  umbrella header "UBSelectTravelOptions-umbrella.h"
+
+  export *
+  module * { export * }
+}
